@@ -1,0 +1,2 @@
+java -jar fulladdress\selenium-server-standalone-2.48.2.jar -htmlSuite *firefox http://ec2-52-31-177-160.eu-west-1.compute.amazonaws.com/ 2_lesson_homework_part2.html report.html
+jave -jar fulladdress\jenkins.war
